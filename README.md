@@ -40,7 +40,7 @@ My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*
 - Coding projects with a good cause.
 - Building an authentic community.
 
-## 🤔 I’m looking for help with...
+## 🤔 I’m looking for help with
 - Investing! I only recently started investing. Would love to meet & exchange investing strategies.
 - Building brand identity. This is something I'm currently working on, so I'm very open to any insights on it!
 

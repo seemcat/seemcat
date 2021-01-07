@@ -1,16 +1,51 @@
-### Hi there 👋
+# Hi there 🙋🏻‍♀️
 
-<!--
-**seemcat/seemcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*". I'm a **multi-passionate** gal. I've got so much love for:
 
-Here are some ideas to get you started:
+- 👩🏻‍💻 coding
+- 📝 writing,
+- 🎥 filming
+- 🎨 drawing
+- 👗 sewing
+- ✍🏼 planning meaningful gatherings
+- 🧘🏻‍♀️ meditating
+- 🏋🏻‍♂️ working out
+- 🙏🏻 doing yoga
+- 💃🏻 dancing
+- 💕 or spending quality time with my furry kids (Kona 🐶, Reggie 🐶 and Pitou 🐱)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# A little more about me
+
+## 🔭 I’m currently working on
+- This spiritual tool called Woga.
+- Myself. Always. I'm all about personal & spiritual development 😉.
+
+## 🌱 I’m currently learning... 
+### How to
+- Build an authentic developer community.
+- Gather more meaningfully.
+- Level up in my Developer Advocacy career.
+
+### About
+- The Authentication & Authorization / Digital Identity / Security industry.
+- CryptoCurrency.
+- Blockchain Technology.
+- TypeScript.
+- Next.js
+
+## 👯 I’m looking to collaborate on...
+- Creative films.
+- Hackathons.
+- Coding projects with a good cause.
+- Building an authentic community.
+
+## 💬 Ask me about ...
+- Functional Programming.
+- How to build websites, end-to-end.
+- Gathering meaningfully.
+- Building authentic communities.
+- Spirituality.
+
+## 📫 How to reach me...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I absolutely love anything with ✨sparkles✨ on it.

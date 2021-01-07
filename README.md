@@ -25,6 +25,7 @@ My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*
 - Build an authentic developer community.
 - Gather more meaningfully.
 - Level up in my Developer Advocacy career.
+- Make my money work for me (investing 😍).
 
 ### About
 - The Authentication & Authorization / Digital Identity / Security industry.
@@ -38,6 +39,10 @@ My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*
 - Hackathons.
 - Coding projects with a good cause.
 - Building an authentic community.
+
+## 🤔 I’m looking for help with...
+- Investing! I only recently started investing. Would love to meet & exchange investing strategies.
+- Building brand identity. This is something I'm currently working on, so I'm very open to any insights on it!
 
 ## 💬 Ask me about
 - Functional Programming.

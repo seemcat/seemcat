@@ -42,9 +42,9 @@ My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*
 ## 💬 Ask me about
 - Functional Programming.
 - How to build websites, end-to-end.
-- Gathering meaningfully.
+- How to gather more meaningfully.
 - Building authentic communities.
-- Spirituality.
+- How to detach from your identity & manifest a life you love 😏.
 
 ## 📫 How to reach me
 - 😄 Pronouns: she/her

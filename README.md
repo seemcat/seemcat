@@ -3,7 +3,7 @@
 My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*". I'm a **multi-passionate** gal. I've got so much love for:
 
 - 👩🏻‍💻 coding
-- 📝 writing,
+- 📝 writing
 - 🎥 filming
 - 🎨 drawing
 - 👗 sewing
@@ -20,7 +20,7 @@ My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*
 - This spiritual tool called Woga.
 - Myself. Always. I'm all about personal & spiritual development 😉.
 
-## 🌱 I’m currently learning... 
+## 🌱 I’m currently learning
 ### How to
 - Build an authentic developer community.
 - Gather more meaningfully.
@@ -33,19 +33,19 @@ My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*
 - TypeScript.
 - Next.js
 
-## 👯 I’m looking to collaborate on...
+## 👯 I’m looking to collaborate on
 - Creative films.
 - Hackathons.
 - Coding projects with a good cause.
 - Building an authentic community.
 
-## 💬 Ask me about ...
+## 💬 Ask me about
 - Functional Programming.
 - How to build websites, end-to-end.
 - Gathering meaningfully.
 - Building authentic communities.
 - Spirituality.
 
-## 📫 How to reach me...
+## 📫 How to reach me
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I absolutely love anything with ✨sparkles✨ on it.

@@ -26,6 +26,7 @@ My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*
 - Gather more meaningfully.
 - Level up in my Developer Advocacy career.
 - Make my money work for me (investing 😍).
+- Become a Vtuber.
 
 ### About
 - The Authentication & Authorization / Digital Identity / Security industry.

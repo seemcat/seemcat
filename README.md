@@ -1,6 +1,6 @@
 # Hi there 🙋🏻‍♀️
 
-My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*". I'm a **multi-passionate** gal. I've got so much love for:
+My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*". I'm a **multi-passionate creative**. I've got so much love for:
 
 - 👩🏻‍💻 coding
 - 📝 writing

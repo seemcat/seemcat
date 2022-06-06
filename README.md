@@ -1,6 +1,6 @@
 # Hi there 🙋🏻‍♀️
 
-My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*". I'm a **multi-passionate creative**.
+My name's Maricris. Pronounced like "*Merry Christmas* 🎄", without the "*mas*". I'm a **Multi-Passionate Entrepreneur**. I code, build communities, and create content.
 
 # Currently working on
 Building a DAO called Women in Web3 & participating in web3 hackathons.
